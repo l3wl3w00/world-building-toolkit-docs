@@ -1,0 +1,28 @@
+- aug. 8:
+    - backend:
+        - world, user, continent entitás létrehozása, és kezelésük
+        - alap authentikáció
+        - oauth authentikáció
+- aug. 22:
+    - frontend:
+        - legyen egy gömb, amit lehet forgatni
+        - lehet vonalat rajzolni a gömb felületén
+- szept. 5:
+    - frontend:
+        - lehessen létrehozni pontszerű/kirejedt(zárt és nem zárt) elemeket
+    - backend
+        - meglévő kód integrációs tesztelése
+    - összekötni a fe-t és be-t
+- szept. 19:
+    - adott földrajzi helynek a színét, és típusát ki lehessen választani
+    - effektek felvétele: pl világítson egy földrajzi lokáció, ha feléviszem az egeret
+- okt. 3:
+    - események felvétele és földrajzi helyhez rendelése
+    - frontend
+        - idővonal megjelenítése, földrajzi lokáció alapján lehessen az ott lévő eseményeket megtekinteni
+- okt. 17:
+    - fikcionális személyek felvétele - lehessen személyeket eseményhez rendelni
+- okt. 31:
+- nov. 14:
+- nov. 28:
+- dec. 12:
