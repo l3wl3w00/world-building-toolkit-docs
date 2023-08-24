@@ -7,6 +7,8 @@
     - frontend:
         - legyen egy gömb, amit lehet forgatni
         - lehet vonalat rajzolni a gömb felületén
+    - backend:
+        - continuous integration bevezetése
 - szept. 5:
     - frontend:
         - lehessen létrehozni pontszerű/kirejedt(zárt és nem zárt) elemeket
@@ -23,6 +25,8 @@
 - okt. 17:
     - fikcionális személyek felvétele - lehessen személyeket eseményhez rendelni
 - okt. 31:
+    - backend
+        - meglévő kód integrációs tesztelése
 - nov. 14:
 - nov. 28:
 - dec. 12:
