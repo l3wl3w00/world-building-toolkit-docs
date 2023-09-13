@@ -9,24 +9,33 @@
         - lehet vonalat rajzolni a gömb felületén
     - backend:
         - continuous integration bevezetése
-- szept. 5:
+- szept. 11:
     - frontend:
-        - lehessen létrehozni pontszerű/kirejedt(zárt és nem zárt) elemeket
-    - backend
-        - meglévő kód integrációs tesztelése
-    - összekötni a fe-t és be-t
-- szept. 19:
+        - lehessen létrehozni kirejedt(zárt és nem zárt) elemeket
+        - bejelentezés kliensoldali megvalósítása
+- szept. 26:
+    - lehessen létrehozni pontszerű elemeket is
+    - backend és frontend összekkötése
     - adott földrajzi helynek a színét, és típusát ki lehessen választani
     - effektek felvétele: pl világítson egy földrajzi lokáció, ha feléviszem az egeret
-- okt. 3:
+    - első 10 oldala a szakdogának
+- okt. 10:
     - események felvétele és földrajzi helyhez rendelése
     - frontend
         - idővonal megjelenítése, földrajzi lokáció alapján lehessen az ott lévő eseményeket megtekinteni
+    - szakdoga: 20 oldal
 - okt. 17:
     - fikcionális személyek felvétele - lehessen személyeket eseményhez rendelni
-- okt. 31:
+    - szakdoga: 30 oldal
+
+- okt. 24:
     - backend
         - meglévő kód integrációs tesztelése
+    - chatgpt integráció
+    - szakdoga: 40 oldal
+
 - nov. 14:
+    - szakdoga: maradék befejezése
+
 - nov. 28:
 - dec. 12:
