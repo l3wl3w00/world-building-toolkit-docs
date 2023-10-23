@@ -19,20 +19,11 @@
     - adott földrajzi helynek a színét, és típusát ki lehessen választani
     - effektek felvétele: pl világítson egy földrajzi lokáció, ha feléviszem az egeret
     - első 10 oldala a szakdogának
-- okt. 18:
-    - események felvétele és földrajzi helyhez rendelése
-    - frontend
-        - idővonal megjelenítése, földrajzi lokáció alapján lehessen az ott lévő eseményeket megtekinteni
-    - szakdoga: 20 oldal
-- nov. 01:
-    - fikcionális személyek felvétele - lehessen személyeket eseményhez rendelni
-    - szakdoga: 30 oldal
-
+- nov. 1:
+    - világ és bolygó szétválasztása
+    - különböző naptárak felvételének biztosítása
 - nov. 15:
-    - backend
-        - meglévő kód integrációs tesztelése
-    - chatgpt integráció
-    - szakdoga: 40 oldal
-
+    - események felvétele
+    - chatgp beépítése
 - nov. 29:
-    - szakdoga: maradék befejezése
+    - szép kinézet és mesh generálás javítása, ux javítása
